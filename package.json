@@ -1,0 +1,16 @@
+{
+  "name": "slack-workflow-step-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for crafting Slack Workflow Step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jun OHWADA",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^18.0.15",
+    "@slack/bolt": "^3.1.1",
+    "dotenv": "^8.2.0"
+  }
+}
