@@ -4,6 +4,7 @@
   "description": "Sandbox for crafting Slack Workflow Step",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jun OHWADA",
